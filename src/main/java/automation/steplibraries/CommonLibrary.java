@@ -18,6 +18,9 @@ public class CommonLibrary{
 	public void setTestContext(TestContext testContext) {
 		this.testContext = testContext;
 	}
-		
+// Dummy lines	
+	public void set1TestContext(TestContext testContext) {
+		this.testContext = testContext;
+	}
 	
 }
